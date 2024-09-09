@@ -1,0 +1,7 @@
+npm install
+npm install chartjs chart.js
+npm install json-server
+npm install npx
+
+npm run dev
+npx json-server db.json
